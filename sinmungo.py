@@ -35,7 +35,7 @@ def scrapping(req):
 def saveCsv(dict):
     keys=dict.keys()
     for key in keys:
-        with open(f'./sinmungo/{key}.csv', mode='w',encoding='utf-8') as file:
+        with open(f'./data/{key}_신문고.csv', mode='w',encoding='utf-8') as file:
             writer=csv.writer(file)
             writer.writerow(['count','title','agency','date','viewed'])
             temp=dict[key]
