@@ -1,6 +1,7 @@
 .exe
-/test
-.ipynb
+.zip
+/lda
+/png
 .hwp
 /.ipynb_checkpoints
 chromedriver.exe
