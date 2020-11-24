@@ -6,3 +6,5 @@
 /.ipynb_checkpoints
 chromedriver.exe
 /data
+.xlsx
+/참고파일/지역명/raw
