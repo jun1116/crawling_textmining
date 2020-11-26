@@ -1,4 +1,3 @@
-
 소요산 역	 Noun
 동두천 역	 Noun
 보산 역	 Noun
@@ -187,7 +186,8 @@
 노원 역	 Noun
 창동 역	 Noun
 쌍문 역	 Noun
-수유(강북구청) 역	 Noun
+수유 역	 Noun
+강북구청 역	 Noun
 미아 역	 Noun
 미아사거리 역	 Noun
 길음 역	 Noun
@@ -205,7 +205,8 @@
 신용산 역	 Noun
 이촌 역	 Noun
 동작 역	 Noun
-총신대입구(이수) 역	 Noun
+총신대입구 역	 Noun
+이수 역	 Noun
 사당 역	 Noun
 남태령 역	 Noun
 선바위 역	 Noun
@@ -300,7 +301,8 @@
 공덕 역	 Noun
 효창공원앞 역	 Noun
 삼각지 역	 Noun
-녹사평(용산구청) 역	 Noun
+녹사평 역	 Noun
+용산구청 역	Noun
 이태원 역	 Noun
 한강진 역	 Noun
 버티고개 역	 Noun
@@ -318,7 +320,8 @@
 석계 역	 Noun
 태릉입구 역	 Noun
 화랑대 역	 Noun
-봉화산(서울의료원) 역	 Noun
+봉화산 역	 Noun
+서울의료원 역	 Noun
 장암 역	 Noun
 도봉산 역	 Noun
 수락산 역	 Noun
@@ -459,11 +462,13 @@
 두정 역	 Noun
 천안 역	 Noun
 봉명 역	 Noun
-쌍용(나사렛대) 역	 Noun
+쌍용 역	 Noun
+나사렛대 역	 Noun
 아산 역	 Noun
 배방 역	 Noun
 온양온천 역	 Noun
-신창(순천향대) 역	 Noun
+신창 역	 Noun
+순천향대 역	 Noun
 청량리 역	 Noun
 왕십리 역	 Noun
 서울숲 역	 Noun
@@ -578,8 +583,8 @@
 수지구청 역	 Noun
 성복 역	 Noun
 상현 역	 Noun
-광교중앙(아주대) 역	 Noun
-광교(경기대) 역	 Noun
+광교중앙 역	 Noun
+광교 역	 Noun
 서울역 역	 Noun
 공덕 역	 Noun
 홍대입구 역	 Noun
@@ -846,7 +851,8 @@
 용지 역	 Noun
 녹동 역	 Noun
 소태 역	 Noun
-학동.증심사입구 역	 Noun
+학동 역	 Noun
+증심사입구 역	 Noun
 남광주 역	 Noun
 문화전당 역	 Noun
 금남로4가 역	 Noun
@@ -859,6 +865,7 @@
 운천 역	 Noun
 상무 역	 Noun
 김대중컨벤션센터 역	 Noun
+컨벤션센터 역	 Noun
 공항 역	 Noun
 송정공원 역	 Noun
 광주송정 역	 Noun
@@ -915,12 +922,14 @@
 광안 역	 Noun
 금련산 역	 Noun
 남천 역	 Noun
-경성대.부경대 역	 Noun
+경성대 역	 Noun
+부경대 역	 Noun
 대연 역	 Noun
 못골 역	 Noun
 지게골 역	 Noun
 문현 역	 Noun
-국제금융센터.부산은행 역	 Noun
+부산은행 역	 Noun
+국제금융센터 역	 Noun
 전포 역	 Noun
 서면 역	 Noun
 부암 역	 Noun
